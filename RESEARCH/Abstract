@@ -1,0 +1,22 @@
+Digital cyberspace represents a lucrative environment for various attacks and exploits.
+Improvements in computer hardware parallel advancements in the sophistication of cyber attacks.
+Along with this, digital cyberspace becomes even more entrenched in industry, infrastructure,
+and military practice. And while both the threat of attack and the stakes for security increase drastically,
+the technology of detection systems has remained relatively stagnant in the past few decades.
+These Signature-based Intrusion Detection Systems only recognize threats from an established
+database of threats. They fail to detect zero-day attacks which could impart enormous damage considering the 
+immense importance of computer connectedness in today’s society. Thus, traditional Signature-Based 
+Intrusion Detection Systems prove inadequate against advancing contemporary cyberattack technology.[1]
+In this study, various machine learning models were trained to detect network traffic anomalies on a comprehensive, 
+labeled cyber attack dataset in order to determine the effectiveness of an ML-powered traffic classification 
+system. Benchmark assessment was used to compare the accuracy of each model with each other
+- as training data & conditions are kept constant, the most accurate model can be determined.
+Throughout the study, the immense computational resources and time required to train models on
+such complex data structures proved to be a formidable challenge. Scaling, imputing, and 
+preprocessing data were also difficult to nail. While live capture predictions proved too much of 
+a challenge, significant results in accuracy assessment were obtained during training using a 80/20 
+testing system to deter overfitting. This showed impressive results, with the Neural Net model
+scoring the highest at 0.9662 accuracy. The next step would be to implement the trained models in a live capture setting.
+
+
+
